@@ -3,7 +3,7 @@ This Repo contains my bachelor thesis paper and project files
 
 ## WIP! Estimated completion date: 12-31-2025
 
-## Title: Investiating Ternary Neural Networks under Neuroevolutionary Training
+## Title: Investigating Neuroevolution of Ternary Neural Networks as an Alternative to Reinforcement Learning
 
 ## Motivation
 
